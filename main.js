@@ -1,0 +1,1 @@
+const sectionCards = document.querySelector("section.cards");
